@@ -1,9 +1,9 @@
 ###Prefix
-prefix = "actionsdev"
+prefix = "gitdev"
 
 
 ###location
-location ="Central US"
+location = "Central US"
 
 ###Environment
 environment = "nonprod"
