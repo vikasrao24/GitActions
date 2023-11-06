@@ -6,7 +6,7 @@ prefix = "gitdev"
 location = "Central US"
 
 ###Environment
-environment = "nonprod"
+environment = "dev"
 
 ###Ask Id
 ask_id = "AIDE_00000"

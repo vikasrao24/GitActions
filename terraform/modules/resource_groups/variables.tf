@@ -5,21 +5,25 @@ variable "prefix" {
 }
 
 variable "location" {
-type = string
-  description = "Azure Region"
-  }
+     type = string
+     description = "Azure Region"
+     }
 
 variable "environment"{
      description = "environment"
-type = string
+     type = string
      }
 
 variable "ask_id"{
      description = "ask id of the project"
-type = string
+     type = string
      }
 
 variable "projectname"{
      description = "name of the project"
-type = string
+     type = string
+     }
+variable "description"{
+     description = "name of the project"
+     type = string
      }
