@@ -1,29 +1,29 @@
 # Variables
 variable "prefix" {
-  type = string
+  type        = string
   description = "resource prefix"
 }
 
 variable "location" {
-     type = string
+     type        = string
      description = "Azure Region"
      }
 
 variable "environment"{
      description = "environment"
-     type = string
+     type        = string
      }
 
 variable "ask_id"{
      description = "ask id of the project"
-     type = string
+     type        = string
      }
 
 variable "projectname"{
      description = "name of the project"
-     type = string
+     type        = string
      }
 variable "description"{
      description = "name of the project"
-     type = string
+     type        = string
      }
