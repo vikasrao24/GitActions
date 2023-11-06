@@ -9,7 +9,7 @@ location = "Central US"
 environment = "dev"
 
 ###Ask Id
-ask_id = "AIDE_00000"
+ask_id = "AIDE_00"
 
 ###Project Name
 projectname = "opcare"
