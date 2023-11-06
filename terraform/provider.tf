@@ -3,11 +3,11 @@ terraform {
     azurerm = {
       source  = "hashicorp/azurerm"
       version = "3.0.0"
-      use_cli = false
     }
   }
 }
 
 provider "azurerm" {
   features {}
+  use_cli = false
 }
