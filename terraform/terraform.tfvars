@@ -12,5 +12,5 @@ environment = "dev"
 ask_id = "AIDE_00000"
 
 ###Project Name
-projectname = "ocare"
+projectname = "opcare"
 
